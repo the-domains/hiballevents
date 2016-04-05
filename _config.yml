@@ -1,0 +1,28 @@
+name: hiballevents
+favicon: null
+layout_spectrum: 0.9572679686825722
+typography_spectrum: 0.5934090204536915
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.24819815042428672
+  lightness: 0.9244617419317365
+  saturation: 0.9691293502692133
+  rhythmicContrast: 0.41960561997257173
+purpose: []
