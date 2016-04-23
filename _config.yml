@@ -2,6 +2,7 @@ name: hiballevents
 favicon: null
 layout_spectrum: 0.9572679686825722
 typography_spectrum: 0.5934090204536915
+title: HiBall Events
 cta:
   domain: null
   bucket: null
